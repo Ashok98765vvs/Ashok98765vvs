@@ -1,49 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header&text=Ashok%20Chowdary&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=Senior%20Data%20Engineer%20%7C%20Azure%20%7C%20Power%20BI%20%7C%20SQL%20%7C%20Python&descSize=15&descAlignY=85&descColor=ffffff" width="100%"/>
+# 👋 Hi, I'm Ashok Chowdary
 
-</div>
+### Senior Data Engineer · Azure · Power BI · SQL · Python · Databricks
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=0078D4&center=true&vCenter=true&multiline=true&width=700&height=60&lines=4+Years+Enterprise+Data+Engineering+%7C+Azure+%7C+Databricks+%7C+Snowflake;ETL+8hrs+%E2%86%92+2hrs+%E2%80%A2+200%2B+Daily+Stakeholders+%E2%80%A2+500K%2B+Records+%3C2s+Query)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashok%20Chowdary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokchowdary-data-engineer)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me%20Now-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashok.shankar7156@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashok98765vvs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashok98765vvs)
 
-</div>
+<br>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashokchowdary-data-engineer)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashok.shankar7156@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Available%20Immediately-22C55E?style=for-the-badge)](mailto:ashok.shankar7156@gmail.com)
-[![No Sponsorship](https://img.shields.io/badge/Auth-No%20Sponsorship%20Needed-6366F1?style=for-the-badge)](mailto:ashok.shankar7156@gmail.com)
+![Available](https://img.shields.io/badge/🟢%20Status-Available%20Immediately-22C55E?style=flat-square)
+![Location](https://img.shields.io/badge/📍%20Location-Montgomery%2C%20Alabama-0078D4?style=flat-square)
+![Auth](https://img.shields.io/badge/✅%20Work%20Auth-No%20Sponsorship%20Needed-6366F1?style=flat-square)
+![Remote](https://img.shields.io/badge/🌎%20Open%20To-Remote%20USA%20·%20Atlanta%20Hybrid-gray?style=flat-square)
 
 </div>
 
 ---
 
-## 👋 Who Am I — Recruiter Summary
+## 🙋 Who Am I
 
-> **Data Engineer with 4 years** building enterprise-grade ETL pipelines, data warehouses, and BI solutions on Azure at **First Meridian Global Services**. Currently completing **M.S. Computer Science at Auburn University at Montgomery** (GPA 3.74, May 2026). Triple Microsoft-certified. Available immediately. No sponsorship required.
->
-> 🎯 **Targeting:** Data Engineer · BI Developer · Analytics Engineer · ETL Developer
-> 📍 **Location:** Montgomery, AL · Open to Remote USA · Atlanta GA Hybrid
+> 📬 **Best way to reach me: [ashok.shankar7156@gmail.com](mailto:ashok.shankar7156@gmail.com)**
+
+**Data Engineer with 4 years** of production experience building enterprise ETL pipelines, cloud data warehouses, and Power BI solutions on Azure — at **First Meridian Global Services**. Currently completing my **M.S. Computer Science at Auburn University at Montgomery** (GPA 3.74, May 2026).
+
+Triple **Microsoft-certified** · PL-300 Power BI · AZ-104 Azure Admin · AZ-400 DevOps Expert
+
+- 🎯 **Targeting:** Data Engineer · BI Developer · Analytics Engineer · ETL Developer
+- 📍 **Open to:** Remote USA · Atlanta GA Hybrid · Montgomery AL
 
 ---
 
-## 🏆 Impact At A Glance
+## 🏆 Recruiter Snapshot — What I've Delivered
 
 <div align="center">
 
-| 🚀 Achievement | 📊 Result | 🛠️ How |
+| Metric | Result | Stack |
 |:---|:---:|:---|
-| ETL pipeline processing time | **8 hrs → 2 hrs (75% ↑)** | Azure Data Factory, production scale |
-| Power BI dashboards delivered | **15+ dashboards** | DAX, RLS, ArcGIS Maps |
-| Daily active business stakeholders | **200+ users** | Power BI enterprise reporting |
-| Query response on massive datasets | **< 2 seconds on 500K+ rows** | Synapse, Delta Lake, Medallion Architecture |
-| SQL & PySpark query optimization | **60–75% faster execution** | Indexing, partitioning, query plan analysis |
-| Row-Level Security framework | **50+ user roles** | Azure data platforms |
-| Data accuracy achieved | **99.7% accuracy** | Data validation & anomaly detection |
-| Data governance initiatives led | **5+ GDPR compliance projects** | ADF + Azure DevOps |
+| ⚡ ETL pipeline speed | **8 hrs → 2 hrs · 75% faster** | Azure Data Factory |
+| 📊 Power BI dashboards built | **15+ enterprise dashboards** | Power BI · DAX · RLS |
+| 👥 Stakeholders served daily | **200+ business users** | Power BI reporting |
+| 🔍 Query on 500K+ records | **Sub-2-second response** | Synapse · Delta Lake · Medallion |
+| 📉 SQL execution time reduced | **60–75% improvement** | T-SQL · PySpark · Indexing |
+| 🔒 RLS roles implemented | **50+ user roles** | Azure data platforms |
+| ✅ Data accuracy | **99.7% accuracy** | Anomaly detection pipelines |
+| 📋 GDPR initiatives led | **5+ compliance projects** | ADF · Azure DevOps |
 
 </div>
 
@@ -53,12 +57,12 @@
 
 <div align="center">
 
-| Badge | Certification | Issuer | Level |
-|:---:|:---|:---:|:---:|
-| ![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Azure Administrator Associate** | Microsoft | Associate |
-| ![AZ-400](https://img.shields.io/badge/AZ--400-DevOps%20Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | **Azure DevOps Engineer Expert** | Microsoft | Expert |
-| ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Analyst-F2C811?style=flat-square&logo=powerbi&logoColor=black) | **Power BI Data Analyst Associate** | Microsoft | Associate |
-| ![HackerRank](https://img.shields.io/badge/Problem%20Solving-98th%20Percentile-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | **Problem Solving** | HackerRank | 98th %ile |
+| Certification | Issuer | Level |
+|:---|:---:|:---:|
+| ![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Microsoft | Associate |
+| ![AZ-400](https://img.shields.io/badge/AZ--400-DevOps%20Engineer%20Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | Microsoft | Expert |
+| ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst%20Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Microsoft | Associate |
+| ![HackerRank](https://img.shields.io/badge/Problem%20Solving-98th%20Percentile-00EA64?style=flat-square&logo=hackerrank&logoColor=black) | HackerRank | 98th %ile |
 
 </div>
 
@@ -68,18 +72,16 @@
 
 <div align="center">
 
-**☁️ Cloud & Data Platforms**
+**☁️ Cloud & Data**
 
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 **💻 Languages & BI**
 
@@ -90,7 +92,7 @@
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**⚙️ DevOps & Infrastructure**
+**⚙️ DevOps & Infra**
 
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -115,71 +117,71 @@
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>💠 Enterprise ETL & Data Warehouse — Azure Data Factory + Synapse</b> &nbsp;|&nbsp; <code>Production Scale</code></summary>
+<summary><b>💠 Enterprise ETL & Data Warehouse — Azure Data Factory + Synapse</b></summary>
 <br>
 
-**Problem:** Batch ETL jobs were taking 8 hours, delaying business reporting and stakeholder decisions.
+**Problem:** Batch ETL jobs took 8 hours — delaying all downstream business reporting.
 
-**Solution:** Architected 10+ enterprise-grade ADF/ELT pipelines and deployed a scalable data warehouse on Azure Synapse using **Medallion Architecture + Delta Lake**.
+**What I built:** 10+ enterprise ADF/ELT pipelines + Azure Synapse data warehouse using Medallion Architecture and Delta Lake.
 
-**Results:**
-- ⚡ Reduced batch processing from **8 hours → 2 hours (75% improvement)**
-- ⚡ Sub-2-second query response on **500K+ records**
-- 📉 SQL and PySpark execution time reduced by **60–75%** via indexing, partitioning, and query plan analysis
-- 🔒 Integrated Azure Key Vault for secure credential management and Azure DevOps for CI/CD
+**Impact:**
+- ⚡ Batch processing: **8 hrs → 2 hrs (75% faster)**
+- ⚡ Query response on 500K+ rows: **under 2 seconds**
+- 📉 SQL & PySpark execution: **60–75% faster** via indexing + partitioning
+- 🔒 Azure Key Vault integration for secrets + Azure DevOps CI/CD
 
-`Azure Data Factory` `Azure Synapse` `Delta Lake` `PySpark` `T-SQL` `Medallion Architecture` `Star Schema` `Azure Key Vault`
+`Azure Data Factory` `Azure Synapse` `Delta Lake` `PySpark` `T-SQL` `Medallion Architecture` `Star Schema`
 
 </details>
 
 ---
 
 <details open>
-<summary><b>💠 Power BI Enterprise Dashboard Suite</b> &nbsp;|&nbsp; <code>200+ Daily Users</code></summary>
+<summary><b>💠 Power BI Enterprise Dashboard Suite — 200+ Daily Users</b></summary>
 <br>
 
-**Problem:** Business stakeholders across finance, sales, and operations lacked unified, role-secure reporting.
+**Problem:** Finance, sales, and ops stakeholders had no unified, role-secure reporting layer.
 
-**Solution:** Built and maintained 15+ interactive Power BI dashboards with advanced DAX, Row-Level Security, drill-through, and ArcGIS Maps visualizations.
+**What I built:** 15+ interactive Power BI dashboards — advanced DAX, Row-Level Security, drill-through, ArcGIS Maps.
 
-**Results:**
+**Impact:**
 - 📊 **15+ dashboards** serving **200+ daily active stakeholders**
-- 🔒 **RLS framework across 50+ user roles** ensuring secure, role-based data access
-- ✅ Implemented data lineage tracking and metadata management for **GDPR compliance**
+- 🔒 RLS framework across **50+ user roles**
+- ✅ GDPR-compliant data lineage + metadata management
 
-`Power BI` `DAX` `RLS` `ArcGIS Maps` `Power Query` `SSMS` `Azure Data Factory`
-
-</details>
-
----
-
-<details open>
-<summary><b>💠 Cloud Infrastructure Automation — Terraform + Azure</b> &nbsp;|&nbsp; <code>Mar 2024 – May 2024</code></summary>
-<br>
-
-**Solution:** Automated full cloud infrastructure provisioning on Microsoft Azure using Terraform IaC — VNets, resource groups, storage accounts, and VM instances.
-
-**Results:**
-- 🔄 Zero-touch deployments via **Jenkins CI/CD integration**
-- 📈 Proactive monitoring via **Azure Monitor + Log Analytics**
-- 💰 Optimized resource allocation and cost efficiency at scale
-
-`Terraform` `Azure Monitor` `Log Analytics` `Jenkins` `IaC` `Azure VMs` `CI/CD`
+`Power BI` `DAX` `RLS` `ArcGIS Maps` `Power Query` `SSMS`
 
 </details>
 
 ---
 
 <details open>
-<summary><b>💠 CI/CD Pipelines for Microservices on Kubernetes</b> &nbsp;|&nbsp; <code>Jan 2024 – Mar 2024</code></summary>
+<summary><b>💠 Cloud Infrastructure Automation — Terraform + Azure</b> &nbsp;<code>Mar–May 2024</code></summary>
 <br>
 
-**Solution:** Designed and implemented CI/CD pipelines using Jenkins + Azure DevOps to automate build, test, and deployment of microservices on Kubernetes clusters.
+**What I built:** Full IaC automation for Azure — VNets, storage, resource groups, VMs — with Jenkins CI/CD and Azure Monitor.
 
-**Results:**
-- 🐳 Automated **Docker** container builds deployed to **Azure Kubernetes Service (AKS)**
-- 📦 **Helm charts** for consistent config management across environments
-- 📡 **Prometheus + Grafana** for full system observability and alerting
+**Impact:**
+- 🔄 Zero-touch deployments via Jenkins CI/CD
+- 📈 Proactive observability with Azure Monitor + Log Analytics
+- 💰 Optimised resource allocation and cost efficiency
+
+`Terraform` `Azure Monitor` `Log Analytics` `Jenkins` `CI/CD` `IaC`
+
+</details>
+
+---
+
+<details open>
+<summary><b>💠 CI/CD Pipelines for Microservices on Kubernetes</b> &nbsp;<code>Jan–Mar 2024</code></summary>
+<br>
+
+**What I built:** Jenkins + Azure DevOps pipelines deploying Docker microservices to AKS, managed via Helm, monitored with Prometheus + Grafana.
+
+**Impact:**
+- 🐳 Automated Docker builds → **Azure Kubernetes Service (AKS)**
+- 📦 Helm charts for consistent multi-environment deployments
+- 📡 Full observability stack with **Prometheus + Grafana**
 
 `Kubernetes` `AKS` `Docker` `Helm` `Jenkins` `Prometheus` `Grafana` `Azure DevOps`
 
@@ -188,34 +190,34 @@
 ---
 
 <details open>
-<summary><b>💠 Hybrid Cloud Backup Solution — AWS S3 + Azure Blob</b> &nbsp;|&nbsp; <code>Sep 2023 – Dec 2023</code></summary>
+<summary><b>💠 Hybrid Cloud Backup — AWS S3 + Azure Blob</b> &nbsp;<code>Sep–Dec 2023</code></summary>
 <br>
 
-**Solution:** Architected a hybrid backup solution across AWS S3 + Azure Blob Storage for redundancy and disaster recovery.
+**What I built:** Multi-cloud backup solution with automated daily snapshots, lifecycle policies, and encryption across AWS + Azure.
 
-**Results:**
-- 🤖 Daily automated snapshots via **Python + AWS Lambda**
-- 🗂️ Lifecycle policies for compliant data archiving and retention
-- 🔐 RBAC + **encryption in transit and at rest** across both cloud providers
+**Impact:**
+- 🤖 Daily snapshots via **Python + AWS Lambda**
+- 🗂️ Compliant archiving with lifecycle policies
+- 🔐 RBAC + encryption in transit and at rest across both clouds
 
-`AWS S3` `Azure Blob` `AWS Lambda` `Python` `RBAC` `Lifecycle Policies` `Disaster Recovery`
+`AWS S3` `Azure Blob` `AWS Lambda` `Python` `RBAC` `Disaster Recovery`
 
 </details>
 
 ---
 
 <details open>
-<summary><b>💠 Centralized Monitoring & Logging — ELK Stack + Azure</b></summary>
+<summary><b>💠 Centralized Logging & Monitoring — ELK Stack + Azure</b></summary>
 <br>
 
-**Solution:** Developed a centralized logging solution using ELK Stack (Elasticsearch, Logstash, Kibana) on Azure for real-time log aggregation across multiple applications and services.
+**What I built:** ELK Stack (Elasticsearch, Logstash, Kibana) centralised logging on Azure — aggregating logs from Azure VMs, databases, and services in real time.
 
-**Results:**
-- 📊 Kibana dashboards with alerts for **rapid detection and resolution of critical events**
-- 🔄 Dynamic **Terraform-based ELK scaling** based on workload demand
-- 🔗 Azure VMs, databases, and services integrated end-to-end via Logstash
+**Impact:**
+- 📊 Kibana dashboards + alerts for rapid critical event detection
+- 🔄 Terraform-driven dynamic ELK scaling by workload
+- 🔗 End-to-end log shipping across all Azure services
 
-`Elasticsearch` `Logstash` `Kibana` `Azure VMs` `Terraform` `Azure Monitor`
+`Elasticsearch` `Logstash` `Kibana` `Terraform` `Azure Monitor` `Azure VMs`
 
 </details>
 
@@ -224,30 +226,30 @@
 ## 💼 Work Experience
 
 ### 🏢 First Meridian Global Services Pvt Ltd
-**Senior Data Engineer** · *June 2020 – May 2024 (4 years)* · India
+**Senior Data Engineer** · June 2020 – May 2024 · 4 years · India
 
-- Architected **10+ enterprise ETL/ELT pipelines** using Azure Data Factory, SQL, and Python
-- Designed and deployed scalable **Azure Synapse + Delta Lake** data warehouse (500K+ records, sub-2s queries)
-- Built **15+ Power BI dashboards** with advanced DAX, RLS (50+ roles), and ArcGIS visualizations for 200+ stakeholders
-- Led **5+ GDPR data governance initiatives** with lineage tracking and metadata management via ADF + Azure DevOps
-- Integrated **Azure Key Vault, Azure Monitor**, and CI/CD pipelines across the enterprise data ecosystem
-- Collaborated with business stakeholders on BRD/FRD → dimensional models (Star Schema) + anomaly detection
+- Architected **10+ enterprise ETL/ELT pipelines** — ADF, SQL, Python
+- Built **Synapse + Delta Lake** warehouse with 500K+ records at sub-2-second query speed
+- Delivered **15+ Power BI dashboards** (DAX, RLS, ArcGIS) to 200+ daily stakeholders
+- Led **5+ GDPR governance projects** — lineage tracking + metadata management
+- Secured data platform with **Azure Key Vault**, monitored via Azure Monitor + CI/CD pipelines
+- Translated BRD/FRD requirements → Star Schema dimensional models + anomaly detection
 
 ### 🏢 Besant Technologies
-**Power BI & Data Analyst Intern** · *January 2020 – May 2020 (5 months)* · Bengaluru
+**Power BI & Data Analyst Intern** · January – May 2020 · Bengaluru
 
-- Built **8+ Power BI dashboards** tracking sales, finance, and operations KPIs for executive reporting
-- Implemented **RLS-enabled reports for 30+ user roles** across organizational hierarchies
-- Executed complex SQL queries (JOINs, CTEs, window functions) on 50K+ record datasets
-- Resolved **15+ data anomalies**, achieving **99.7% data accuracy**
+- Built **8+ Power BI dashboards** — sales, finance, operations KPIs for executive reporting
+- Implemented **RLS for 30+ user roles** across org hierarchies
+- Executed complex SQL (JOINs, CTEs, window functions) on 50K+ record datasets
+- Resolved **15+ data anomalies** — achieved **99.7% data accuracy**
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | GPA | Year |
+| Degree | Institution | GPA | Period |
 |:---|:---|:---:|:---:|
-| **M.S. Computer Science** | Auburn University at Montgomery | 3.74 | Aug 2024 – May 2026 |
+| **M.S. Computer Science** | Auburn University at Montgomery | **3.74** | Aug 2024 – May 2026 |
 | **B.E. Computer Science** | Visvesvaraya Technological University | — | Aug 2016 – Aug 2020 |
 
 ---
@@ -256,27 +258,31 @@
 
 <div align="center">
 
-[![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashok98765vvs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Ashok98765vvs)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok98765vvs&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Ashok98765vvs)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ashok98765vvs&theme=tokyonight&hide_border=true)](https://github.com/Ashok98765vvs)
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 📬 Reach Me — Recruiters Welcome
 
 <div align="center">
 
-| Platform | Link |
+### 👉 Best way: **[ashok.shankar7156@gmail.com](mailto:ashok.shankar7156@gmail.com)** 👈
+
+| | |
 |:---:|:---|
-| 💼 **LinkedIn** | [linkedin.com/in/ashokchowdary-data-engineer](https://www.linkedin.com/in/ashokchowdary-data-engineer) |
 | 📧 **Email** | [ashok.shankar7156@gmail.com](mailto:ashok.shankar7156@gmail.com) |
-| 📍 **Location** | Montgomery, Alabama · Remote USA · Atlanta GA Hybrid |
-| ✅ **Work Auth** | Authorized to work in the USA · No sponsorship required |
-| 🟢 **Availability** | Available Immediately |
+| 💼 **LinkedIn** | [linkedin.com/in/ashokchowdary-data-engineer](https://www.linkedin.com/in/ashokchowdary-data-engineer) |
+| 💻 **GitHub** | [github.com/Ashok98765vvs](https://github.com/Ashok98765vvs) |
+| 📍 **Location** | Montgomery, Alabama |
+| 🌎 **Open to** | Remote USA · Atlanta GA Hybrid |
+| ✅ **Work Auth** | Authorized in USA · No sponsorship needed |
+| 🟢 **Available** | Immediately |
 
 </div>
 
@@ -284,10 +290,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=80&section=footer" width="100%"/>
+**💡 Targeting: Data Engineer · BI Developer · Analytics Engineer · ETL Developer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0078D4&style=for-the-badge&label=Profile+Views)
-
-*Open to: Data Engineer · BI Developer · Analytics Engineer · ETL Developer · Remote USA · Atlanta GA Hybrid*
+![Profile Views](https://komarev.com/ghpvc/?username=Ashok98765vvs&color=0078D4&style=for-the-badge&label=Profile+Views)
 
 </div>
