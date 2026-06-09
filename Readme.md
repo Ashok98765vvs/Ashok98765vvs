@@ -295,3 +295,29 @@ Triple **Microsoft-certified** · PL-300 Power BI · AZ-104 Azure Admin · AZ-40
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashok98765vvs&color=0078D4&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+
+---
+
+## 🚀 Featured Project — NEW (June 2026)
+
+### 🏗️ [End-to-End Data Lakehouse Pipeline](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+
+> **The most complete Data Engineering project in my portfolio** — built to showcase every skill a Senior Data Engineer needs in 2026.
+
+[![Airflow](https://img.shields.io/badge/Airflow-2.9-017CEE?style=flat-square&logo=apacheairflow)](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+[![dbt](https://img.shields.io/badge/dbt-1.8-FF694B?style=flat-square&logo=dbt)](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+[![Snowflake](https://img.shields.io/badge/Snowflake-DataWarehouse-29B5E8?style=flat-square&logo=snowflake)](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+[![PySpark](https://img.shields.io/badge/PySpark-3.5-E25A1C?style=flat-square&logo=apachespark)](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+[![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure)](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
+
+| What I Built | Impact |
+|---|---|
+| Medallion Architecture (Bronze → Silver → Gold) | ~2.5M records processed/day |
+| PySpark + Delta Lake transformation jobs | ETL time: 8hr → 2hr (75% faster) |
+| Apache Airflow DAG orchestration | 99.4% data quality score |
+| dbt SQL modeling + testing | 3 Power BI dashboards served |
+| Great Expectations data quality framework | Zero manual intervention |
+| GitHub Actions CI/CD (lint, test, deploy) | Production-grade DevOps |
+
+🔗 **[View Project →](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)**
