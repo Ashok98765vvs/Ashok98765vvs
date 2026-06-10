@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashok98765vvs&color=0e75b6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/ashok-s1/?skipRedirect=true)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
 
 **Data Engineer | Backend Developer | AI/ML Enthusiast | Cloud Solutions Architect**
