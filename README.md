@@ -161,7 +161,7 @@ I'm a passionate **Data Engineer** with expertise in building **production-grade
 
 ## 🔗 Connect With Me
 
-- 💼 **LinkedIn**: [(https://www.linkedin.com/in/ashok-s1/?skipRedirect=true)]
+- 💼 **LinkedIn**: https://www.linkedin.com/in/ashok-s1/?skipRedirect=true
 - 🌐 **Portfolio**: [View Here](https://your-portfolio.com)
 - 📧 **Email**: ashok.shankar7156@gmail.com
 - 🐙 **GitHub**: [@Ashok98765vvs](https://github.com/Ashok98765vvs)
