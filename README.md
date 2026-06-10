@@ -1,4 +1,4 @@
-# 👋 Ashok Kumar - Data Engineer
+# 👋 Ashok Chowdary - Data Engineer
 
 <div align="center">
 
