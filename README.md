@@ -1,4 +1,4 @@
-# 👋 Ashok Kumar - Data Engineer & Full-Stack Developer
+# 👋 Ashok Kumar - Data Engineer
 
 <div align="center">
 
