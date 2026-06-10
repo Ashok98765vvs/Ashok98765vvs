@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashok98765vvs&color=0e75b6)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
 
 **Data Engineer | Backend Developer | AI/ML Enthusiast | Cloud Solutions Architect**
 
