@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Data Engineer** with **5+ years** of experience building production-grade data pipelines, cloud data warehouses, and real-time streaming architectures. Currently completing **MS in Computer Science @ Auburn University (Dec 2026)**. On **OPT** — available immediately.
+> **Senior Data Engineer** with **5+ years** of experience building production-grade data pipelines, cloud data warehouses, and real-time streaming architectures. Currently completing **MS in Computer Science @ Auburn University (Dec 2026)**.
 
 ```yaml
 Name      : Ashok Chowdary
@@ -159,7 +159,7 @@ Contact   : ashoknaidu98765@gmail.com
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashoknaidu98765@gmail.com)
 [![GitHub Follow](https://img.shields.io/github/followers/Ashok98765vvs?label=Follow%20on%20GitHub&style=for-the-badge&logo=github)](https://github.com/Ashok98765vvs)
 
-**💼 Open to Data Engineer roles (Full-time / Contract) | OPT | Available Immediately**
+**💼 Open to Data Engineer roles (Full-time / Contract) | Available Immediately**
 
 </div>
 
