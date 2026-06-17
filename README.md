@@ -23,7 +23,7 @@ Location  : Auburn, Alabama, USA
 Education : MS Computer Science — Auburn University (Dec 2026)
 Status    : Open to Work | OPT Available
 Specialty : dbt · Snowflake · Airflow · Spark · GCP · AWS · Azure
-Contact   : ashoknaidu98765@gmail.com
+Contact   : ashokchowdary776@gmail.com
 ```
 
 ---
