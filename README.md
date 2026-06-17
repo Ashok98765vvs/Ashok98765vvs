@@ -21,7 +21,7 @@ Name      : Ashok Chowdary
 Role      : Senior Data Engineer
 Location  : Auburn, Alabama, USA
 Education : MS Computer Science — Auburn University (Dec 2026)
-Status    : Open to Work | OPT Available
+Status    : Open to Work |
 Specialty : dbt · Snowflake · Airflow · Spark · GCP · AWS · Azure
 Contact   : ashokchowdary776@gmail.com
 ```
