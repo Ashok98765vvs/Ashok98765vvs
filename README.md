@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-> **Senior Data Engineer** with **5+ years** of experience building production-grade data pipelines, cloud data warehouses, and real-time streaming architectures. Currently completing **MS in Computer Science @ Auburn University (Dec 2026)**.
+> **Data Engineer** with **5+ years** of experience building production-grade data pipelines, cloud data warehouses, and real-time streaming architectures. Currently completing **MS in Computer Science @ Auburn University (Dec 2026)**.
 
 ```yaml
 Name      : Ashok Chowdary
