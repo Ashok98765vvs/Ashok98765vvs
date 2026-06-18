@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer with **5+ years** of experience (4 years full-time + 1 year internship) building cloud data platforms for US **fintech and financial-services** clients.[file:1] I’ve worked on a **$50B mortgage-servicing data platform**, scaling data from **2TB → 15TB** and optimizing warehouse and SQL performance end to end.[file:1]
+Data Engineer with **5+ years** of experience building cloud data platforms for US **fintech and financial-services** clients.[file:1] I’ve worked on a **$50B mortgage-servicing data platform**, scaling data from **2TB → 15TB** and optimizing warehouse and SQL performance end to end.[file:1]
 
 I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observability** patterns (Monte Carlo, Great Expectations) that make data reliable, fast, and cost-efficient.[file:1] My recent work includes zero-downtime **Redshift → Snowflake** migrations and real-time loan/stock pipelines.
 
