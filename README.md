@@ -11,21 +11,13 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer with **5+ years** of experience building cloud data platforms for US **fintech and financial-services** clients.[file:1] I’ve worked on a **$50B mortgage-servicing data platform**, scaling data from **2TB → 15TB** and optimizing warehouse and SQL performance end to end.[file:1]
+I’m Ashok, a **Data Engineer** helping US fintech and financial-services teams ship reliable, fast, and cost-efficient data platforms on Snowflake, BigQuery, and Databricks. Over the last 5+ years, I’ve worked on production systems including a **$50B+ mortgage-servicing platform**, real-time loan/stock pipelines, and zero-downtime Redshift → Snowflake migrations.
 
-I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observability** patterns (Monte Carlo, Great Expectations) that make data reliable, fast, and cost-efficient.[file:1] My recent work includes zero-downtime **Redshift → Snowflake** migrations and real-time loan/stock pipelines.
+My work focuses on building dbt/Snowflake models, Airflow pipelines, and observability patterns (Monte Carlo, Great Expectations) that cut compute spend and reduce incidents. I’ve driven **35% lower warehouse costs**, **45% faster queries**, and **60% fewer data incidents** on large-scale platforms (2TB → 15TB+).
 
-**Quick profile**
+I’m based in **Montgomery, Alabama**, pursuing an **MS in Computer Science at Auburn University at Montgomery (Dec 2026)** and I have **US work authorization with no sponsorship required**. I’m actively open to **Data Engineer, Analytics Engineer, and Data Platform Engineer** roles (full-time or contract) and I ship my patterns openly on GitHub (dbt, streaming, IaC).
 
-- Name: Ashok Chowdary  
-- Role: Data Engineer  
-- Location: Montgomery, Alabama, USA  
-- Education: MS CS — Auburn University at Montgomery (Dec 2026)[file:1]  
-- Work Auth: US work authorization — **no sponsorship required**[file:1]  
-- Specialty: dbt · Snowflake · BigQuery · Airflow · Spark · Terraform · Power BI  
-- Contact: [ashokchowdary776@gmail.com](mailto:ashokchowdary776@gmail.com)  
-- LinkedIn: [linkedin.com/in/ashok-s1](https://www.linkedin.com/in/ashok-s1)  
-- Portfolio: [github.com/Ashok98765vvs](https://github.com/Ashok98765vvs)
+If you’re hiring for data engineers who can own pipelines end-to-end—from ingestion and modeling to monitoring and CI/CD—I’d love to connect.
 
 ---
 
@@ -33,12 +25,12 @@ I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observa
 
 | Area                | Impact                                                                 |
 |---------------------|------------------------------------------------------------------------|
-| Cost Reduction      | **35%** lower Snowflake/BigQuery compute via dbt model & warehouse tuning[file:1] |
-| Query Performance   | **45%** faster avg query runtimes via SQL + materialization optimization[file:1] |
-| Data Reliability    | **60%** fewer data incidents with Monte Carlo + Great Expectations[file:1] |
-| Platform Scale      | **$50B+** mortgage-servicing data platform (**2TB → 15TB**) on Snowflake & BigQuery[file:1] |
-| Pipeline Automation | 6-hour manual reporting process → **5-minute** automated pipeline     |
-| Migration           | Zero-downtime **Redshift → Snowflake** migration (150+ downstream reports)[file:1] |
+| Cost Reduction      | Cut Snowflake/BigQuery compute by **35%** via dbt model tuning and warehouse right-sizing. |
+| Query Performance   | Improved average query runtimes by **45%** through SQL optimization and materializations. |
+| Data Reliability    | Reduced data incidents by **60%** using Monte Carlo, Great Expectations, and alerting. |
+| Platform Scale      | Scaled a **$50B+ mortgage-servicing platform** from **2TB → 15TB** on Snowflake/BigQuery. |
+| Pipeline Automation | Turned a 6-hour manual reporting process into a **5-minute** automated pipeline. |
+| Migration           | Delivered **zero-downtime Redshift → Snowflake** migration for 150+ downstream reports. |
 
 ---
 
@@ -52,7 +44,7 @@ I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observa
 **Transformation & Orchestration**
 
 - dbt (Core & Cloud) · Apache Airflow · Fivetran · Stitch  
-- Power Query · ADF
+- Power Query · Azure Data Factory (ADF)
 
 **Data & Analytics**
 
@@ -78,12 +70,12 @@ I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observa
 
 ### 1️⃣ Mortgage Servicing Data Platform – Snowflake & BigQuery
 
-**Context:** US mortgage servicer managing **$50B+** in loan portfolios needed a scalable, compliant analytics platform.[file:1]
+**Context:** US mortgage servicer managing **$50B+** in loan portfolios needed a scalable, compliant analytics platform.
 
-- Owned and optimized core data infra on **Snowflake + BigQuery**, scaling from **2TB → 15TB** across loan servicing, payments, and customer analytics domains.[file:1]  
-- Designed **multi-tenant SaaS** data architecture for 3 business units with tenant-level RBAC, schema isolation, and SOC 2/HIPAA-aligned controls.[file:1]  
-- Built **200+ dbt models** (Core & Cloud) with incremental materializations and tests, cutting warehouse compute costs by **35%**.[file:1]  
-- Implemented end-to-end observability using **Monte Carlo + Great Expectations + Slack/PagerDuty**, reducing data incidents by **60%**.[file:1]
+- Owned and optimized core data infra on **Snowflake + BigQuery**, scaling from **2TB → 15TB** across loan servicing, payments, and customer analytics domains.  
+- Designed **multi-tenant SaaS** data architecture for 3 business units with tenant-level RBAC, schema isolation, and SOC 2/HIPAA-aligned controls.  
+- Built **200+ dbt models** (Core & Cloud) with incremental materializations and tests, cutting warehouse compute costs by **35%**.  
+- Implemented end-to-end observability using **Monte Carlo + Great Expectations + Slack/PagerDuty**, reducing data incidents by **60%**.
 
 **Result:** Reliable, compliant analytics platform powering regulatory, investor, and executive reporting with significantly lower compute spend.
 
@@ -177,6 +169,10 @@ I use GitHub to mirror real project patterns from my professional work: incremen
 
 ## 📬 Let's Connect
 
-💼 Open to **Data Engineer / Analytics Engineer / Data Platform Engineer** roles (full-time or contract) in the US — **available immediately, no sponsorship needed**.
+Open to **Data Engineer / Analytics Engineer / Data Platform Engineer** roles (full-time or contract) in the US — **available immediately, no sponsorship needed**.
 
 If you find my projects useful, please ⭐ them — it helps recruiters and hiring managers discover my work.
+
+- 📧 Email: **ashokchowdary776@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/ashok-s1](https://www.linkedin.com/in/ashok-s1)
+- 💻 GitHub: [github.com/Ashok98765vvs](https://github.com/Ashok98765vvs)
