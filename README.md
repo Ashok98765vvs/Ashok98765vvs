@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ashok+Chowdary;Senior+Data+Engineer+%7C+5%2B+Years;dbt+%7C+Snowflake+%7C+Airflow+%7C+Spark;Open+to+Data+Engineering+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ashok+Chowdary;+Data+Engineer+%7C+5%2B+Years;dbt+%7C+Snowflake+%7C+Airflow+%7C+Spark;Open+to+Data+Engineering+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashok--s1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-s1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashok98765vvs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashok98765vvs)
@@ -18,7 +18,7 @@
 
 ```yaml
 Name      : Ashok Chowdary
-Role      : Senior Data Engineer
+Role      : Data Engineer
 Location  : Auburn, Alabama, USA
 Education : MS Computer Science — Auburn University (Dec 2026)
 Status    : Open to Work |
