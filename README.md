@@ -1,170 +1,182 @@
-<div align="center">
+# 👋 Hey, I'm Ashok Chowdary
 
-<!-- HEADER BANNER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ashok+Chowdary;+Data+Engineer+%7C+5%2B+Years;dbt+%7C+Snowflake+%7C+Airflow+%7C+Spark;Open+to+Data+Engineering+Roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+**Data Engineer (Fintech)** building production-grade data platforms, dbt/Snowflake pipelines, and real-time streaming systems for US financial-services clients.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashok--s1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-s1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashok98765vvs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashok98765vvs)
-[![Email](https://img.shields.io/badge/Email-ashokchowdary776%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashoknaidu98765@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-
-</div>
+- 📍 Based in **Montgomery, Alabama, USA**
+- 🎓 **MS Computer Science**, Auburn University at Montgomery (Dec 2026)
+- 🧾 **US Work Authorization** — no sponsorship required, available immediately
+- 🎯 Target roles: **Data Engineer · Analytics Engineer · Data Platform Engineer**
 
 ---
 
 ## 👨‍💻 About Me
 
-> **Data Engineer** with **5+ years** of experience building production-grade data pipelines, cloud data warehouses, and real-time streaming architectures. Currently completing **MS in Computer Science @ Auburn University (Dec 2026)**.
+Data Engineer with **5+ years** of experience (4 years full-time + 1 year internship) building cloud data platforms for US **fintech and financial-services** clients.[file:1] I’ve worked on a **$50B mortgage-servicing data platform**, scaling data from **2TB → 15TB** and optimizing warehouse and SQL performance end to end.[file:1]
 
-```yaml
-Name      : Ashok Chowdary
-Role      : Data Engineer
-Location  : Auburn, Alabama, USA
-Education : MS Computer Science — Auburn University (Dec 2026)
-Status    : Open to Work |
-Specialty : dbt · Snowflake · Airflow · Spark · GCP · AWS · Azure
-Contact   : ashokchowdary776@gmail.com
-```
+I enjoy designing **dbt/Snowflake** models, **Airflow** pipelines, and **observability** patterns (Monte Carlo, Great Expectations) that make data reliable, fast, and cost-efficient.[file:1] My recent work includes zero-downtime **Redshift → Snowflake** migrations and real-time loan/stock pipelines.
 
----
+**Quick profile**
 
-## 🏆 Key Achievements
-
-| Metric | Impact |
-|--------|--------|
-| 💰 Cost Reduction | **35% reduction** in cloud data warehouse costs |
-| ⚡ Query Performance | **45% faster** query execution via optimization |
-| 🚨 Incident Reduction | **60% fewer** data incidents with Monte Carlo observability |
-| 📈 Platform Scale | **$50B+** mortgage data platform managed |
-| 🔄 Pipeline Automation | **6-hour** manual process → **5-minute** automated pipeline |
-| 🏗️ Migration | Zero-downtime Redshift → Snowflake migration |
+- Name: Ashok Chowdary  
+- Role: Data Engineer  
+- Location: Montgomery, Alabama, USA  
+- Education: MS CS — Auburn University at Montgomery (Dec 2026)[file:1]  
+- Work Auth: US work authorization — **no sponsorship required**[file:1]  
+- Specialty: dbt · Snowflake · BigQuery · Airflow · Spark · Terraform · Power BI  
+- Contact: [ashokchowdary776@gmail.com](mailto:ashokchowdary776@gmail.com)  
+- LinkedIn: [linkedin.com/in/ashok-s1](https://www.linkedin.com/in/ashok-s1)  
+- Portfolio: [github.com/Ashok98765vvs](https://github.com/Ashok98765vvs)
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 Key Impact
 
-### ☁️ Cloud & Warehouses
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+| Area                | Impact                                                                 |
+|---------------------|------------------------------------------------------------------------|
+| Cost Reduction      | **35%** lower Snowflake/BigQuery compute via dbt model & warehouse tuning[file:1] |
+| Query Performance   | **45%** faster avg query runtimes via SQL + materialization optimization[file:1] |
+| Data Reliability    | **60%** fewer data incidents with Monte Carlo + Great Expectations[file:1] |
+| Platform Scale      | **$50B+** mortgage-servicing data platform (**2TB → 15TB**) on Snowflake & BigQuery[file:1] |
+| Pipeline Automation | 6-hour manual reporting process → **5-minute** automated pipeline     |
+| Migration           | Zero-downtime **Redshift → Snowflake** migration (150+ downstream reports)[file:1] |
 
-### 🔧 Transformation & Orchestration
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Fivetran](https://img.shields.io/badge/Fivetran-0073FF?style=for-the-badge&logo=fivetran&logoColor=white)
+---
 
-### 💻 Languages & DevOps
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+## 🛠 Tech Stack
 
-### 📊 Certifications
-![Google Cloud](https://img.shields.io/badge/GCP_Professional_Data_Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt_Analytics_Engineering-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks_Certified-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Cloud & Warehouses**
+
+- Snowflake · BigQuery · Redshift · Databricks · Azure Synapse  
+- AWS · GCP · Azure
+
+**Transformation & Orchestration**
+
+- dbt (Core & Cloud) · Apache Airflow · Fivetran · Stitch  
+- Power Query · ADF
+
+**Data & Analytics**
+
+- Apache Spark (PySpark) · Kafka · Delta Lake  
+- Power BI (PL-300) · DAX · Monte Carlo · Great Expectations
+
+**Languages & DevOps**
+
+- Python · SQL  
+- Terraform · GitHub Actions · Docker · CI/CD
+
+**Certifications**
+
+- Google Cloud Professional Data Engineer  
+- dbt Analytics Engineering  
+- Microsoft Power BI Data Analyst (PL-300)  
+- Databricks Certified Data Engineer  
+- AWS Solutions Architect
+
+---
+
+## 💼 Fintech Case Studies
+
+### 1️⃣ Mortgage Servicing Data Platform – Snowflake & BigQuery
+
+**Context:** US mortgage servicer managing **$50B+** in loan portfolios needed a scalable, compliant analytics platform.[file:1]
+
+- Owned and optimized core data infra on **Snowflake + BigQuery**, scaling from **2TB → 15TB** across loan servicing, payments, and customer analytics domains.[file:1]  
+- Designed **multi-tenant SaaS** data architecture for 3 business units with tenant-level RBAC, schema isolation, and SOC 2/HIPAA-aligned controls.[file:1]  
+- Built **200+ dbt models** (Core & Cloud) with incremental materializations and tests, cutting warehouse compute costs by **35%**.[file:1]  
+- Implemented end-to-end observability using **Monte Carlo + Great Expectations + Slack/PagerDuty**, reducing data incidents by **60%**.[file:1]
+
+**Result:** Reliable, compliant analytics platform powering regulatory, investor, and executive reporting with significantly lower compute spend.
+
+---
+
+### 2️⃣ Real-Time Loan Risk & Collections Pipeline – Kafka + Databricks + Delta Lake
+
+**Context:** Fintech lender needed near real-time visibility into loan performance, delinquencies, and risk scores.
+
+- Designed a **real-time stock/loan streaming pipeline** with Kafka → Databricks → Delta Lake (bronze/silver/gold) → dbt models → Power BI dashboards.  
+- Built PySpark jobs to cleanse, join, and aggregate streaming events into **gold tables** for delinquency, prepayment, and cohort analysis.  
+- Implemented data-quality checks on streaming tables (nulls, thresholds, schema drift) and alerts to Slack for anomalies.  
+- Delivered Power BI dashboards for risk and collections teams with sub-minute latency views.
+
+**Result:** Enabled faster decision-making on high-risk accounts and improved visibility into loan portfolio performance.
+
+> Example repo: [Real-Time Stock Streaming Pipeline](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔷 1. dbt + Snowflake End-to-End Pipeline
-[![Repo](https://img.shields.io/badge/GitHub-dbt--snowflake--pipeline-181717?style=flat-square&logo=github)](https://github.com/Ashok98765vvs/dbt-snowflake-pipeline)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-> Public API → Python Ingestion → Snowflake → dbt Incremental Models → Data Quality Tests → GitHub Actions CI/CD
-> - ✅ **40% faster** model runs using incremental strategy
-> - ✅ Automated 6-hour reporting to **5-minute pipeline**
-> - ✅ 100% data quality test pass rate
+Public API → Python ingestion → Snowflake → dbt incremental models → data quality tests → GitHub Actions CI/CD
+
+- Designed incremental dbt models and tests for core fact/dim tables, achieving ~**40% faster** runs and reduced compute.  
+- Automated a **6-hour** manual reporting workflow into a **5-minute** scheduled pipeline.  
+- Maintained **100% data-quality test** pass rate (unique, not null, referential integrity).
+
+[Repo](https://github.com/Ashok98765vvs/dbt-snowflake-pipeline)
 
 ---
 
 ### 🔷 2. Airflow ETL → BigQuery (GCP)
-[![Repo](https://img.shields.io/badge/GitHub-airflow--etl--bigquery-181717?style=flat-square&logo=github)](https://github.com/Ashok98765vvs/airflow-etl-bigquery)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-> REST API → Airflow DAG → GCS → BigQuery → dbt → Great Expectations Quality Gate
-> - ✅ **3 retries + email alerting** for zero-failure operations
-> - ✅ Handles **1M+ rows/day** with GCS staging
-> - ✅ Docker Compose local dev environment
+REST API → Airflow DAG → GCS → BigQuery → dbt → Great Expectations gate
+
+- Orchestrated daily ingest of **1M+ rows** using Airflow, GCS staging, and partitioned BigQuery tables.  
+- Implemented retries and email alerting to avoid silent failures in scheduled ETL.  
+- Added Great Expectations checks on BigQuery tables before downstream models.
+
+[Repo](https://github.com/Ashok98765vvs/airflow-etl-bigquery)
 
 ---
 
 ### 🔷 3. Redshift → Snowflake Migration (Zero Downtime)
-[![Repo](https://img.shields.io/badge/GitHub-redshift--to--snowflake--migration-181717?style=flat-square&logo=github)](https://github.com/Ashok98765vvs/redshift-to-snowflake-migration)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Zero-downtime migration playbook: schema export, S3 staging, COPY INTO, validation
-> - ✅ Query performance **4.7x faster** post-migration
-> - ✅ Storage cost reduced **65%** ($2,400 → $850/mo)
-> - ✅ Row count + MD5 checksum validation scripts included
+- Authored migration playbook: schema export, S3 staging, COPY INTO patterns, and data validation.  
+- Achieved **4.7x faster** query performance and ~**65% lower** storage cost post-migration.  
+- Implemented row-count + MD5 checksum validation scripts for table-level integrity.
+
+[Repo](https://github.com/Ashok98765vvs/redshift-to-snowflake-migration)
 
 ---
 
 ### 🔷 4. Snowflake Data Infra — Terraform + GitHub Actions
-[![Repo](https://img.shields.io/badge/GitHub-data--infra--terraform-181717?style=flat-square&logo=github)](https://github.com/Ashok98765vvs/data-infra-terraform)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-> IaC for Snowflake: warehouses, RBAC roles, databases — automated via CI/CD
-> - ✅ `terraform plan` on every PR, `terraform apply` on merge
-> - ✅ Provisioned **8 warehouses** in under 5 minutes
-> - ✅ 100% infrastructure automated — zero manual admin
+- Codified Snowflake warehouses, RBAC roles, databases, and schemas using **Terraform**.  
+- Wired CI/CD so every PR runs `terraform plan` and merges trigger `terraform apply`.  
+- Provisioned **8+ warehouses** and full RBAC hierarchy in under 5 minutes with zero manual configuration.
+
+[Repo](https://github.com/Ashok98765vvs/data-infra-terraform)
 
 ---
 
-### 🔶 More Projects
-| Project | Stack | Link |
-|---------|-------|------|
-| Real-Time Stock Streaming Pipeline | Kafka · Databricks · Delta Lake · dbt · Power BI | [View](https://github.com/Ashok98765vvs/end-to-end-lakehouse-pipeline) |
-| Azure Real-Time Data Quality | PySpark · Delta Lake · Azure Synapse · ADF | [View](https://github.com/Ashok98765vvs/azure-realtime-data-quality-pipeline) |
-| Auto Apply Engine | Python · AI · Automation | [View](https://github.com/Ashok98765vvs/Auto-Apply-engine) |
-| AI Job Search Engine | Python · ML · NLP | [View](https://github.com/Ashok98765vvs/AI-based-Job-Search-engine) |
+## 🔶 More Projects
+
+| Project                           | Stack                                        | Outcome                                      |
+|-----------------------------------|----------------------------------------------|----------------------------------------------|
+| Real-Time Stock Streaming Pipeline| Kafka · Databricks · Delta Lake · dbt · Power BI | Real-time stock analytics lakehouse on Azure |
+| Azure Real-Time Data Quality      | PySpark · Delta Lake · Azure Synapse · ADF   | Streaming data-quality checks on bronze/silver tables |
+| Auto Apply Engine                 | Python · AI · Automation                     | Automates job applications based on filters  |
+| AI Job Search Engine              | Python · ML · NLP                            | Ranks job postings based on candidate fit    |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+I actively commit to:
 
-![Ashok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashok98765vvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+- **fintech-realtime-loan-pipeline**  
+- **dbt-snowflake-pipeline**  
+- **airflow-etl-bigquery**  
+- **python-mortgage-data-pipelines**  
+- **data-infra-terraform**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok98765vvs&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashok98765vvs&theme=tokyonight&hide_border=true)
-
-</div>
+I use GitHub to mirror real project patterns from my professional work: incremental dbt models, observability, CI/CD, and IaC.
 
 ---
 
 ## 📬 Let's Connect
 
-<div align="center">
+💼 Open to **Data Engineer / Analytics Engineer / Data Platform Engineer** roles (full-time or contract) in the US — **available immediately, no sponsorship needed**.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashok-s1/)
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashoknaidu98765@gmail.com)
-[![GitHub Follow](https://img.shields.io/github/followers/Ashok98765vvs?label=Follow%20on%20GitHub&style=for-the-badge&logo=github)](https://github.com/Ashok98765vvs)
-
-**💼 Open to Data Engineer roles (Full-time / Contract) | Available Immediately**
-
-</div>
-
----
-
-<div align="center">
-<sub>⭐ If you find my projects useful, please star them — it helps recruiters discover my work!</sub>
-</div>
+If you find my projects useful, please ⭐ them — it helps recruiters and hiring managers discover my work.
