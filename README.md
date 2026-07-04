@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ashok Chowdary
+# 👋 Hey, I'm Ashok Shankarappa
 
 **Data Engineer (Fintech)** building production-grade data platforms, dbt/Snowflake pipelines, and real-time streaming systems for US financial-services clients.
 
