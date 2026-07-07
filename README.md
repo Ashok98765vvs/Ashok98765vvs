@@ -15,7 +15,7 @@ I am a **Data Engineer** specializing in **real-time streaming pipelines**, **Az
 I build the kind of data infrastructure that fintech and financial-services teams rely on to make high-stakes decisions — from sub-minute fraud alerts to $50B+ mortgage-servicing dashboards.
 
 - MS Computer Science — Auburn University at Montgomery (Dec 2026)
-- US Work Authorization (OPT) — No sponsorship required, available immediately
+- US Work Authorization  — No sponsorship required, available immediately
 - Target roles: **Data Engineer | Analytics Engineer | Data Platform Engineer**
 
 ---
