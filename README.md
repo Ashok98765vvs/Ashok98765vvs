@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Ashok98765vvs-181717?style=flat&logo=github)](https://github.com/Ashok98765vvs)
 [![Email](https://img.shields.io/badge/Email-ashokchowdary776@gmail.com-D14836?style=flat&logo=gmail)](mailto:ashokchowdary776@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Montgomery%2C%20Alabama%2C%20USA-green?style=flat)
-![](https://img.shields.io/badge/US%20Work%20Auth-OPT%20%7C%20No%20Sponsorship%20Required-blue?style=flat)
+![](https://img.shields.io/badge/US%20Work%20Auth-%20%7C%20No%20Sponsorship%20Required-blue?style=flat)
 
 ---
 
